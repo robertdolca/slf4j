@@ -50,6 +50,7 @@ public class StaticMDCBinder
 	/**
 	 * Currently this method always returns an instance of
 	 * {@link StaticMDCBinder}.
+   * @return MDCAdapter
 	 */
 	public MDCAdapter getMDCA()
 	{
